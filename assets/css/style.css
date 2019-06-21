@@ -1,0 +1,29 @@
+.game, .questions {
+    border: none;
+    margin-top:30px;
+}
+.navbar {
+    background-color: black
+}
+.container {
+    margin-top: 250px;
+    text-align: center;
+    background-color: white;
+    
+}
+
+
+
+body {
+
+    background-image: url("../images/https___cdn.evbuc.com_images_58275411_243826126456_1_original.jpeg");
+    font-family: 'Indie Flower', cursive;
+}
+
+#start-btn {
+
+    text-align: center;
+    margin-top: 3%;
+    font-size:56px;
+
+}
